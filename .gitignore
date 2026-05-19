@@ -1,0 +1,4 @@
+node_modules/
+astillero_inventory.db
+.env
+*.log
